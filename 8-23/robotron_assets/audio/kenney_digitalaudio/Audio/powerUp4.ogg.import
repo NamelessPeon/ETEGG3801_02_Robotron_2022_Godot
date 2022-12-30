@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/powerUp4.ogg-48372c27a7013171c174ad3e5852abff.oggstr"
+
+[deps]
+
+source_file="res://robotron_assets/audio/kenney_digitalaudio/Audio/powerUp4.ogg"
+dest_files=[ "res://.import/powerUp4.ogg-48372c27a7013171c174ad3e5852abff.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

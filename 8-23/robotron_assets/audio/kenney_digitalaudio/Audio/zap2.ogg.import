@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/zap2.ogg-7c308a22c5c811dc038a285750cd6821.oggstr"
+
+[deps]
+
+source_file="res://robotron_assets/audio/kenney_digitalaudio/Audio/zap2.ogg"
+dest_files=[ "res://.import/zap2.ogg-7c308a22c5c811dc038a285750cd6821.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/phaseJump3.ogg-3789b3e874a129c0e10b57c7bf994bf1.oggstr"
+
+[deps]
+
+source_file="res://robotron_assets/audio/kenney_digitalaudio/Audio/phaseJump3.ogg"
+dest_files=[ "res://.import/phaseJump3.ogg-3789b3e874a129c0e10b57c7bf994bf1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

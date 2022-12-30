@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/phaserDown3.ogg-ce3a09b40a5ac0ad4918af4e4bd810da.oggstr"
+
+[deps]
+
+source_file="res://robotron_assets/audio/kenney_digitalaudio/Audio/phaserDown3.ogg"
+dest_files=[ "res://.import/phaserDown3.ogg-ce3a09b40a5ac0ad4918af4e4bd810da.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

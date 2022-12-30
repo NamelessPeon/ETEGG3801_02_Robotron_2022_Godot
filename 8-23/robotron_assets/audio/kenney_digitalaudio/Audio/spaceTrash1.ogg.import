@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/spaceTrash1.ogg-711f3f44cb8cf2d00601c87089430abe.oggstr"
+
+[deps]
+
+source_file="res://robotron_assets/audio/kenney_digitalaudio/Audio/spaceTrash1.ogg"
+dest_files=[ "res://.import/spaceTrash1.ogg-711f3f44cb8cf2d00601c87089430abe.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/zapThreeToneUp.ogg-1bd0f92efc3cabafe199618808312fe2.oggstr"
+
+[deps]
+
+source_file="res://robotron_assets/audio/kenney_digitalaudio/Audio/zapThreeToneUp.ogg"
+dest_files=[ "res://.import/zapThreeToneUp.ogg-1bd0f92efc3cabafe199618808312fe2.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

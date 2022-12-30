@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/threeTone1.ogg-ac70852909759615e73cd9396d47c2fb.oggstr"
+
+[deps]
+
+source_file="res://robotron_assets/audio/kenney_digitalaudio/Audio/threeTone1.ogg"
+dest_files=[ "res://.import/threeTone1.ogg-ac70852909759615e73cd9396d47c2fb.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

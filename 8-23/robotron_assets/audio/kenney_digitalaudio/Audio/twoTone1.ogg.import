@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/twoTone1.ogg-0d058d358a34be8e68c26ac17928acc9.oggstr"
+
+[deps]
+
+source_file="res://robotron_assets/audio/kenney_digitalaudio/Audio/twoTone1.ogg"
+dest_files=[ "res://.import/twoTone1.ogg-0d058d358a34be8e68c26ac17928acc9.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

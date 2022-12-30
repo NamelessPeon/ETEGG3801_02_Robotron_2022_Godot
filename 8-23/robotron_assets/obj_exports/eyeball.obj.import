@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/eyeball.obj-b6d98a3bed35e44d485ca9eca7c060ec.mesh"
+
+[deps]
+
+files=[ "res://.import/eyeball.obj-b6d98a3bed35e44d485ca9eca7c060ec.mesh" ]
+
+source_file="res://robotron_assets/obj_exports/eyeball.obj"
+dest_files=[ "res://.import/eyeball.obj-b6d98a3bed35e44d485ca9eca7c060ec.mesh", "res://.import/eyeball.obj-b6d98a3bed35e44d485ca9eca7c060ec.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

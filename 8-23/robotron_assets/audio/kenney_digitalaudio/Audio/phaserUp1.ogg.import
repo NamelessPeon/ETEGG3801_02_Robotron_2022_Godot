@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/phaserUp1.ogg-9e44938ea7c0eac9188894ef56efb2fe.oggstr"
+
+[deps]
+
+source_file="res://robotron_assets/audio/kenney_digitalaudio/Audio/phaserUp1.ogg"
+dest_files=[ "res://.import/phaserUp1.ogg-9e44938ea7c0eac9188894ef56efb2fe.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

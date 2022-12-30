@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/laser4.ogg-da78629267f9e486fa8cb660d1c70be1.oggstr"
+
+[deps]
+
+source_file="res://robotron_assets/audio/kenney_digitalaudio/Audio/laser4.ogg"
+dest_files=[ "res://.import/laser4.ogg-da78629267f9e486fa8cb660d1c70be1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
